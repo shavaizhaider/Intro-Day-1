@@ -1,0 +1,164 @@
+1
+00:00:01,830 --> 00:00:04,740
+Xin chào, đây là nơi bạn bắt đầu khóa học.
+
+2
+00:00:05,280 --> 00:00:10,280
+Nhưng trước tiên tôi muốn nói với bạn một chút về nó, bởi vì đây không chỉ
+
+3
+00:00:10,740 --> 00:00:14,640
+là một khóa học. Đó là một cuộc hành trình. Và đó là một thách thức.
+
+4
+00:00:15,510 --> 00:00:19,260
+Một thách thức đối với chính bạn. Tôi thường nghe mọi người nói, "Tôi
+
+5
+00:00:19,440 --> 00:00:23,430
+muốn học viết mã". "Tôi muốn trở thành nhà phát triển ứng dụng". "Tôi muốn có một công việc mới".
+
+6
+00:00:23,700 --> 00:00:26,940
+"Tôi muốn xây dựng ứng dụng của mình", nhưng nếu không có hành động,
+
+7
+00:00:27,210 --> 00:00:31,410
+những lời nói đó trở nên vô nghĩa. Nhưng * bạn * thì khác!
+
+8
+00:00:31,920 --> 00:00:35,160
+Tôi biết điều đó. Mặc dù tôi không biết cá nhân bạn,
+
+9
+00:00:35,550 --> 00:00:38,910
+tôi biết bạn đã mua khóa học này và bạn vẫn chưa rời bỏ khóa học đó.
+
+10
+00:00:39,570 --> 00:00:44,570
+Bạn đã bắt đầu. Và thành công sẽ đến với những ai xuất hiện. Và bạn đã xuất
+
+11
+00:00:44,850 --> 00:00:49,740
+hiện hôm nay. Tôi biết bạn có thể làm điều này. Bạn có thể biến ước mơ của mình thành hiện thực.
+
+12
+00:00:49,980 --> 00:00:53,700
+Bạn có thể thay đổi tương lai của chính mình và bạn có thể thay đổi cuộc sống của những
+
+13
+00:00:53,700 --> 00:00:54,533
+người xung quanh bạn.
+
+14
+00:00:55,260 --> 00:00:59,970
+Một trong những câu hỏi tôi nghe thường xuyên nhất là: "Cách tốt nhất để học viết mã là gì? ".
+
+15
+00:01:00,720 --> 00:01:01,500
+Chà,
+
+16
+00:01:01,500 --> 00:01:06,500
+đây rồi! Đó là 100 ngày thử thách mã. Mã trong ít nhất một giờ. ⏳
+
+17
+00:01:06,720 --> 00:01:11,520
+Hơn 100 ngày. Bạn đang luyện tập cơ bắp để trở nên mạnh mẽ trong việc viết mã.
+
+18
+00:01:12,600 --> 00:01:16,410
+Sau đó, câu hỏi tiếp theo chắc chắn là: “Chà,
+
+19
+00:01:16,560 --> 00:01:21,420
+tôi làm gì mỗi ngày? "Và tôi đã dành nhiều năm để suy nghĩ về câu hỏi này.
+
+20
+00:01:22,080 --> 00:01:22,913
+Và cuối cùng,
+
+21
+00:01:23,280 --> 00:01:27,780
+bây giờ tôi có thể trả lời dứt khoát rằng ... đó là khóa học này!
+
+22
+00:01:29,760 --> 00:01:33,900
+Mỗi ngày, bạn sẽ học và áp dụng các khái niệm lập trình mới.
+
+23
+00:01:34,740 --> 00:01:37,200
+Sau một trăm ngày lặp lại quá
+
+24
+00:01:37,560 --> 00:01:42,000
+trình này, bạn không chỉ nắm được toàn bộ giáo trình Python chuyên nghiệp mà
+
+25
+00:01:42,390 --> 00:01:45,540
+bạn còn giỏi đến mức họ không thể bỏ qua bạn.
+
+26
+00:01:46,710 --> 00:01:49,860
+Chỉ có hai quy tắc để tận dụng tối đa khóa học này.
+
+27
+00:01:50,550 --> 00:01:55,550
+1) Cam kết viết mã một giờ một ngày trong 100 ngày. Để giữ cho mình có
+
+28
+00:01:56,610 --> 00:01:59,400
+trách nhiệm. Tôi khuyên bạn nên tải xuống bản cam kết khóa học.
+
+29
+00:01:59,790 --> 00:02:04,350
+Đây là một hợp đồng 🤝 với chính bạn. Bạn có thể in nó ra và ghim ở đâu đó.
+
+30
+00:02:04,350 --> 00:02:08,639
+Ví dụ, bạn luôn có thể nhìn thấy phía trên máy tính hoặc trên bàn làm việc của mình.
+
+31
+00:02:09,479 --> 00:02:13,050
+Bằng cách ký vào bản cam kết, bạn đang cam kết với chính mình.
+
+32
+00:02:13,470 --> 00:02:16,380
+Nó dành riêng cho bạn. Không ai khác cần phải xem nó.
+
+33
+00:02:17,520 --> 00:02:20,970
+Bạn có thể tải về cam kết trong tài nguyên khóa học cho bài học này.
+
+34
+00:02:22,080 --> 00:02:24,870
+Quy tắc thứ hai là ghi lại tiến trình của bạn.
+
+35
+00:02:25,080 --> 00:02:28,470
+Sử dụng thẻ bắt đầu bằng # 100DaysOfCode trên Twitter.
+
+36
+00:02:29,400 --> 00:02:32,310
+Có hàng triệu sinh viên khác đang trên hành trình này với bạn.
+
+37
+00:02:32,760 --> 00:02:35,130
+Và họ sẽ hỗ trợ bạn khi khó khăn.
+
+38
+00:02:35,880 --> 00:02:40,350
+Tôi khuyên bạn nên tweet sự tiến bộ của mình mỗi ngày với hashtag
+
+39
+00:02:40,350 --> 00:02:45,350
+# 100DaysOfCode và tìm kiếm hashtag trên Twitter để xem những người khác đang làm gì
+
+40
+00:02:45,360 --> 00:02:48,840
+trong 100 ngày của họ. Và đó là tất cả những gì cần làm!
+
+41
+00:02:49,290 --> 00:02:53,640
+Vì vậy, đây là thành công của bạn và hãy bắt đầu với khóa học. 🤞
+
